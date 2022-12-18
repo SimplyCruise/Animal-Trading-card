@@ -1,0 +1,71 @@
+*{
+        margin:0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+.dogcard{
+        background-color: white;
+        display: flex;
+        justify-content: center;
+}
+
+.dog{
+        width:420px;
+        background-color: rgb(236, 234, 234);
+        padding:20px;
+        margin: 30px;
+        border-radius: 10px;
+}
+
+header{
+        color: rgb(0, 119, 255);
+        font-size: 25px;
+        font-weight: 800;
+        text-align: center;
+        padding: 20px;
+}
+
+img{
+        width: 100%;
+        height: auto;
+}
+
+.spec{
+      display:flex;
+      justify-content: space-between;
+      width:100%;
+}
+
+.spec1{
+        display: block;
+        width: 50%;
+}
+
+.spec2{
+        display:block;
+width: 50%;
+}
+
+.hold4{
+        margin-top: 35px;
+}
+.height{
+        margin-top: 20px;
+        margin-bottom: 3px;
+        font-size: 12px;
+        font-weight: 600;
+        color: rgb(0, 119, 255);
+}
+
+
+.text1{
+        color: rgb(111, 111, 111);
+        font-size: 13px;
+}
+
+.text2{
+        color:rgb(112, 112, 112);
+        margin-top: 14px;
+        font-size: 12px;
+}
